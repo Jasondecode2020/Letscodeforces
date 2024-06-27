@@ -19,9 +19,12 @@ All questions are solved by patterns, and the learning sequence is listed below.
 * ### 6 Divide and Conquer
   * #### 6.1 Basics
   * #### 6.2 Binary Search
+    * ##### 6.2.1 Basics
+    * ##### 6.2.1 Binary Search Answer
   * #### 6.3 Sort
 * ### 7 Two Pointers
   * #### Basics
+    * [C. Manhattan Permutations](https://codeforces.com/contest/1978/problem/C) | [code](https://github.com/Jasondecode2020/Letscodeforces/blob/main/codeforces/953/C.py)
   * #### Fast Slow Pointers
   * #### List Groups
 * ### 8 Sliding Window
