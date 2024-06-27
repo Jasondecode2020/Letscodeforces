@@ -1,4 +1,4 @@
-# Letscodeforces·Solving codeforces Problems by Pattern
+# LetsCodeforces·Solving Codeforces Problems by Pattern
 
 All questions are solved by patterns, and the learning sequence is listed below.
 
@@ -52,6 +52,9 @@ All questions are solved by patterns, and the learning sequence is listed below.
     * ##### 13.1.2 House Robber
   * #### 13.2 LCS
   * #### 13.3 LIS
+  * #### 13.4 Prefix Sum
+    * [919. B. Summation Game](#https://codeforces.com/contest/1920/problem/B)
+  * #### 13.4 Prefix Suffix Sum
 * ### 14 Greedy
 * ### 15 Sweep Line
 * ### 16 Difference Array
