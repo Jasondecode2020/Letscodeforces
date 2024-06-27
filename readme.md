@@ -53,7 +53,7 @@ All questions are solved by patterns, and the learning sequence is listed below.
   * #### 13.2 LCS
   * #### 13.3 LIS
   * #### 13.4 Prefix Sum
-    * [919. B. Summation Game](https://codeforces.com/contest/1920/problem/B)
+    * [919. B. Summation Game](https://codeforces.com/contest/1920/problem/B) | [code](https://github.com/Jasondecode2020/Letscodeforces/blob/main/codeforces/919/B.py)
   * #### 13.4 Prefix Suffix Sum
 * ### 14 Greedy
 * ### 15 Sweep Line
